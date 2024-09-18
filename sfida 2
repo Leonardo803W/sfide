@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pagina di registrazione</title>
+</head>
+<body>
+    <h1 style="color: rgb(217, 231, 24);">
+        pagina di registrazione per app di miusic streaming
+    </h1>
+
+    <div>
+        <input type="text" placeholder="il tuo nome"/>
+        </div>
+        <div>
+            <input type="text" placeholder="il tuo cognome"/>
+            </div>
+            <div>
+                <input type="email" placeholder="il tuo indirizzo email"/>
+                </div>
+                <div>
+                    <input type="password" placeholder="la tua password"/>
+                    </div>
+                    <div>
+                        <input type="date" />
+                        </div>
+                        <div>
+                            <input type="number" placeholder="il tuo numero telefonico"/>
+                            </div>
+
+    <h3>
+        quali generi preferisci?
+    </h3>
+    <div>
+        <input placeholder="pop">
+        <input type="checkbox">
+        <input placeholder="rock">
+        <input type="checkbox">
+    <div>
+        <input placeholder="rap">
+        <input type="checkbox">
+        <input placeholder="musica classica">
+        <input type="checkbox">
+    </div>
+        <input placeholder="samba">
+        <input type="checkbox">
+        <input placeholder="tango">
+        <input type="checkbox">
+    </div>
+                  
+    <div>
+        <p style="margin-bottom: 1%;">Accettazione dei termini e condizioni:</p>
+        <input type="radio"/>
+        </div>
+        <div style="margin-top: 3%;">
+            <button onclick="alert('Registrazione inviata')">invia form!</button>
+            </div>
+
+</body>
+</html>
