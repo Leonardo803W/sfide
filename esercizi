@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina di presentazione</title>
+</head>
+<body>
+    <h1 style="color: red;">Benvenuti nella mia pagina di presentazione</h1>
+
+    <img src="https://www.instagram.com/p/ClJRbsitJO0sQa5zXc5NmWSRtnDI2uP9vvAz5U0/"
+    style="width: 300px;"
+    />
+
+    <h3>
+        introduzione
+    </h3>
+
+    <p>
+        Sono Riganelli Leonardo, ho 22 anni e vivo in provincia di lecco,
+        difficilmente trovo persone con cui non riesco ad andare d'accordo,
+        sono una persona molto solare che adora la buona compagnia, sopratutto 
+        quando si tratta di mangiare.
+        Cerco di imparare il possibile con ogni esperienza che faccio, che sia in 
+        termini di lavoro oppure nella vita quotidiana, il mio obbiettivo e quello
+        di ampliare i miei orizzonti, vedere cose, persone e posti nuovi, insomma
+        aumentare il mio bagaglio culturale, ma sopratutto di migliorarmi in continuazione
+        in cio che faccio, caratterialmente e in particolar modo la mia maturita.
+    </p>
+
+    <h3 style="background-color: aqua;">
+        ho diversi hobby, i quali sono:
+    </h3>
+
+    <ul>
+       <li>praticare sport.</li>
+        <li>la lettura.</li>
+        <li>suonare il piano.</li>
+        <li>disegnare.</li>
+        <li>ascoltare musica.</li>
+    </ul>
+
+    <h3 style="background-color: rgb(72, 255, 0);">
+        interessi:
+    </h3>
+
+    <ol>
+        <li>la natura e concerti musicali.</li>
+        <li>capire il funzionamento che sta dietro a cio che ci circonda.</li>
+        <li>condividere i momenti migliori con le persone giuste.</li>
+    </ol>
+
+    <div>
+    <h3 style="color: cadetblue;">
+        esperienze lavorative:
+    </h3>
+
+        <h4>
+            Supporto anagrafe e polizia locale     dic. 2021 - sett. 2022
+        </h4>
+        <p>
+            L'associazione ANCI (Associazone Nazionale Comuni Italiani), aveva proposto un
+            bando per un tirocinio, nel quale si veniva posizionati nei vari comuni, nel mio
+            caso sono stato posizionato presso il comune di Lierna
+        </p>
+        <ul>
+            <li>principali compiti in Anagrafe: protocollare in entrata e archiviazione di
+                documenti e dati.
+            </li>
+            <li>principali compiti in polizia: supporto per la parte amministrativa, ovvero
+                registrare le multe inserendo il numero di protocollo, archiviazione di dati,
+                vendere il tagliando per i parcheggi, rinnovare l'agro silvo pastorale e il
+                cartellino degli invalidi.
+            </li>
+            <p>
+                Utilizzando programmi come ACI-PRA - URBI - SINTEL - CONCILIA.
+            </p>
+        </ul>
+
+        <h4>
+            Cameriere dic. 2022 - sett. 2024
+        </h4>
+        <p>
+            Sede lavorativa Old Wild West di lecco, assunto a tempo indeterminato con
+            inquadramento al 5 livello.
+        </p>
+        <ul>
+            <li>le principali attività: somministrazione di bevande, servizio bar, accoglienza
+                degli ospiti, portare i piatti e le bevande, oltre ad altre attività accessorie e di
+                decoro del posto di lavoro connesse alla mansione stessa.
+            </li>
+        </ul>
+    </div>
+
+    <h3>
+        contatti:
+    </h3>
+
+    <ul>
+        <li>Email: leoriganelli1@gmail.com</li>
+        <li>Instagram: lorens_wolf</li>
+    </ul>
+
+</body>
+</html>
