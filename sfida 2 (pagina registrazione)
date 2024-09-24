@@ -33,19 +33,25 @@
         quali generi preferisci?
     </h3>
     <div>
-        <input placeholder="pop">
+        <button type="submit"> pop
+        </button>
         <input type="checkbox">
-        <input placeholder="rock">
+        <button type="submit"> rock
+        </button>
         <input type="checkbox">
     <div>
-        <input placeholder="rap">
+        <button type="submit"> rap
+        </button>
         <input type="checkbox">
-        <input placeholder="musica classica">
+        <button type="submit"> musica classica
+        </button>
         <input type="checkbox">
     </div>
-        <input placeholder="samba">
+    <button type="submit"> samba
+    </button>
         <input type="checkbox">
-        <input placeholder="tango">
+        <button type="submit"> tango
+        </button>
         <input type="checkbox">
     </div>
                   
